@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Multi-Tenant Sales Dashboard (Frontend)
 
  This project is a frontend-only implementation of a multi-tenant sales dashboard built as part of a frontend assignment. The application simulates a SaaS platform used by multiple organizations, where each organization (tenant) has its own isolated data and users with specific roles. The primary focus of this project is application structure, modularity, role-based access control, and frontend architecture rather than feature completeness or visual design.
